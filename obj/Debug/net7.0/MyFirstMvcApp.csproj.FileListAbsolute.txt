@@ -6,7 +6,6 @@
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/bin/Debug/net7.0/MyFirstMvcApp.runtimeconfig.json
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/bin/Debug/net7.0/MyFirstMvcApp.dll
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/bin/Debug/net7.0/MyFirstMvcApp.pdb
-/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.csproj.AssemblyReference.cache
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.AssemblyInfoInputs.cache
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.AssemblyInfo.cs
@@ -29,3 +28,4 @@
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.pdb
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.genruntimeconfig.cache
 /Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/ref/MyFirstMvcApp.dll
+/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/Debug/net7.0/MyFirstMvcApp.sourcelink.json
