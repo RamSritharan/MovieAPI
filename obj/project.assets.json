@@ -8016,11 +8016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/MyFirstMvcApp.csproj",
+      "projectUniqueName": "/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/CalorieCounterAPI/MyFirstMvcApp.csproj",
       "projectName": "MyFirstMvcApp",
-      "projectPath": "/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/MyFirstMvcApp.csproj",
+      "projectPath": "/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/CalorieCounterAPI/MyFirstMvcApp.csproj",
       "packagesPath": "/Users/ramkishansritharan/.nuget/packages/",
-      "outputPath": "/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/MyFirstMvcApp/obj/",
+      "outputPath": "/Users/ramkishansritharan/Desktop/Software-Projects/CalorieCounterC#Api/CalorieCounterAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ramkishansritharan/.nuget/NuGet/NuGet.Config"
